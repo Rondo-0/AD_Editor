@@ -1,0 +1,3 @@
+Path,FirstName,LastName,Description,Password,edID,Group1,YearLevel,Group3,Group4,homeDrive,homeDirectory
+"OU=Test1,OU=Test,OU=New Import,DC=bps,DC=internal",Test,Test1,Teacher,123456,123A,Students,Year 2,,,J:,\\0565-fs01\StudentHome$\2022\Year %X%\%USERNAME%
+"OU=Test1,OU=Test,OU=New Import,DC=bps,DC=internal",Test,Test2,Teacher,123456,123B,Students,Year 2,,,J:,\\0565-fs01\StudentHome$\2022\Year %X%\%USERNAME%
